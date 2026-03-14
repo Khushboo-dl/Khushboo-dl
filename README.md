@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Khushboo
 
-<!--
-**Khushboo-dl/Khushboo-dl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech Student passionate about Web Development  
 
-Here are some ideas to get you started:
+🚀 Currently learning:
+- Java
+- Data Structures & Algorithms
+- React
+- Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+- Java
+- JavaScript
+- React
+- Spring Boot
+- MySQL
+- Tailwind CSS
+
+📊 DSA Practice
+Solving problems daily and improving problem-solving skills.
+
+📫 Connect with me
+- khushboodalal2004@gmail.com
+
