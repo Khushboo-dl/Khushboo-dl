@@ -1,23 +1,19 @@
-# Hi 👋 I'm Khushboo
+Hi 👋 I'm Khushboo
 
-💻 B.Tech Student passionate about Web Development  
+🎓 B.Tech CSE Student @ DCRUST Murthal
 
-🚀 Currently learning:
-- Java
-- Data Structures & Algorithms
-- React
-- Backend Development
+💻 Interested in:
+• Web Development
+• Data Structures & Algorithms
+• Software Development
 
-🛠 Tech Stack
-- Java
-- JavaScript
-- React
-- Spring Boot
-- MySQL
-- Tailwind CSS
+🌱 Currently Learning:
+• React
+• Backend Development
+• DBMS
 
-📊 DSA Practice
-Solving problems daily and improving problem-solving skills.
+🚀 Building projects and improving problem-solving skills.
+
 
 📫 Connect with me
 - khushboodalal2004@gmail.com
